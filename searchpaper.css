@@ -52,6 +52,7 @@
     margin: auto;
     padding: 0px 10px;
     border: 2px solid #0fb9f1;
+    background-color: white;
     border-radius: 5px;
     box-sizing: border-box;
 }
