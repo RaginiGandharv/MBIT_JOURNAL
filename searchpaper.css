@@ -120,9 +120,6 @@
         width: calc(100% - 20px);
         padding: 0px 10px;
     }
-    .bg{
-        height: 80vh;
-    }
 }
 @media screen and (max-width: 290px){
     .center{
@@ -149,8 +146,4 @@
         /* padding: 0px 10px; */
         font-size: 0.9rem;
     }
-    .bg{
-        height: 60vh;
-    }
-    
 }
