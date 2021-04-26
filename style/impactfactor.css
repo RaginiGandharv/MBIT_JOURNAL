@@ -1,0 +1,33 @@
+/* impact factor  */
+*{
+    font-family: "Montserrat", sans-serif;
+}
+#bg{
+    /* border: 2px solid blue; */
+    width: 100%;
+}
+.parent{
+      border-radius: 10px;
+      background-color: #F7F2E8;
+      box-shadow: 0 1px 6px black,0 1px 4px rgb(211, 155, 100);
+      width: 70%;
+      height: 70%;
+      margin: 10% auto;
+    }
+    .impact{
+        padding: 5% 5% 1% 5%;
+    }
+    .impact img{
+      width: 80%;
+      height: 30%;
+      display: block;
+      border: 2px solid black;
+      margin: auto;
+}
+.avg{
+    display: block;
+    padding: 1%;
+    margin: auto;
+    text-align: center;
+    width: 100%;
+}
