@@ -1,1 +1,0 @@
-# MBIT_JOURNAL-ImpactFactor
